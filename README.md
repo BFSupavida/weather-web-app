@@ -11,7 +11,7 @@ Toggle temperature units between °C and °F
 ## API Key Setup
 Create a .env file in the root directory of the project
 
-Add the following line: REACT_APP_API_KEY=your_api_key
+Add the following line: API_KEY =your_api_key
 
 Note: Create React App only loads environment variables that start with REACT_APP_
 
